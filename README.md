@@ -1,8 +1,4 @@
-# COMPSCI 685 Project #
-
-**Title:** Lower Sampling with Recurring Elimination Improves Self-Consistency for Chain of Thought Reasoning
-
-**Team:** Aadam Lokhandwala, Aditya Vikram Singh, Dhrumeen Patel, Poojitha Penta, Sahil Gupta
+# Title: Lower Sampling with Recurring Elimination Improves Self-Consistency for Chain of Thought Reasoning #
 
 ## Installation and Setting Up ##
 
