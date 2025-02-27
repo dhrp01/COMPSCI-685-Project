@@ -1,4 +1,4 @@
-# Title: Lower Sampling with Recurring Elimination Improves Self-Consistency for Chain of Thought Reasoning #
+# Lower Sampling with Recurring Elimination Improves Self-Consistency for Chain of Thought Reasoning #
 
 ## Installation and Setting Up ##
 
